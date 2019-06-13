@@ -1,0 +1,21 @@
+[
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_device_xiaomi_sdm845-common",
+    "target_path": "device/xiaomi/sdm845-common",
+    "branch": "lineage-16.0"
+  },
+  {
+    "remote": "github",
+    "repository": "TheMuppets/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "lineage-16.0"
+  },
+  {
+    "remote":      "github",
+    "repository":  "Hlcpereira/android_kernel_xiaomi_sdm845",
+    "target_path": "kernel/xiaomi/sdm845",
+    "branch":      "lineage-16.0"
+  }
+
+]
